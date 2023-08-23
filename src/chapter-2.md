@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore the basic concepts and processes of AI algorithms for learning analytics and enhancement, different types of AI techniques and applications for learning and development, and tools and platforms for AI-enabled learning and development.
 
 Basic Concepts and Processes of AI Algorithms for Learning Analytics and Enhancement

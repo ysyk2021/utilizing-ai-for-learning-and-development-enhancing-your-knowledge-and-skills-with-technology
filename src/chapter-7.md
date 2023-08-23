@@ -1,5 +1,4 @@
 
-
 As organizations continue to adopt AI technology in learning and development, it is important to measure its impact and effectiveness. In this chapter, we will explore how to evaluate the impact of AI on learning and development and identify key performance metrics and goals for AI-enhanced learning and development.
 
 Measuring the ROI and Effectiveness of AI Implementation in Learning and Development

@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore how AI can be used to support efficient learning and development through personalizing learning content and delivery, improving retention and recall, and providing actionable feedback, tips, and suggestions.
 
 Personalizing Learning Content and Delivery with AI-Enabled Adaptive Learning and Microlearning

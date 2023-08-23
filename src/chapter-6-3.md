@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore how AI is increasing engagement and motivation among learners. We will discuss how AI algorithms can provide personalized and relevant learning experiences, offer real-time feedback and support, and keep learners on track with their learning goals.
 
 Personalized and Relevant Learning Experiences

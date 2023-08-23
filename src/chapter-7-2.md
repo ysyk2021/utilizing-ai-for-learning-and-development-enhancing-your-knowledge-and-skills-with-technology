@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore how to evaluate the impact of AI on learning and development. We will discuss how to identify key performance metrics and goals for AI-enhanced learning and development, and how to measure the effectiveness of AI-based interventions.
 
 Identifying Key Performance Metrics and Goals

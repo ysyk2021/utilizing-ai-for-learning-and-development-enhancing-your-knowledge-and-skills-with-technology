@@ -1,5 +1,4 @@
-**Chapter: Reducing Bias and Variability in Learning and Development Outcomes**
-===============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------

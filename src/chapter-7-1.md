@@ -1,5 +1,4 @@
-**Chapter: Measuring the ROI and Effectiveness of AI Implementation in Learning and Development**
-=================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------
